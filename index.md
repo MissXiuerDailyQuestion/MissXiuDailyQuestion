@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## 欢迎来到秀儿老师的每日一题
+## 今天（2020年3月15日）的每日一题
 
-You can use the [editor on GitHub](https://github.com/MissXiuerDailyQuestion/MissXiuDailyQuestion/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+He asked me ________ with me.
+A. what is the trouble B. what wrong was
+C. what was the matter D. what trouble it is
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+答题完成后，[点击这里](https://wj.qq.com/s2/5665392/1523) 去填写你的答案
 
-### Markdown
+有任何疑问可以去找秀儿老师微信询问
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 下面的链接只是留位，每日阅读网站正在建设中
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MissXiuerDailyQuestion/MissXiuDailyQuestion/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[点击这里](https://dfub.xdf.cn) 去进行每日阅读
